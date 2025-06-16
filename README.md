@@ -36,6 +36,8 @@ npm start
 기본적으로 index.js에서 서버가 실행됩니다.  
 MySQL 연결 및 환경 변수 설정 필요 (.env 파일).
 
+<br>
+  
 ### Frontend
 ```bash
 cd frontend
